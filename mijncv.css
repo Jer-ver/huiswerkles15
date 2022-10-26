@@ -1,0 +1,32 @@
+body{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightblue;
+  padding: 5px;
+}
+
+#tabel1, #tabel2{
+  border-collapse: collapse;
+  width: 800px;
+  background-color: lightyellow;
+}
+
+td, th{
+  padding: 10px 5px;
+  text-align: center;
+}
+
+h2{
+  margin-left: 50px;
+  color: lightblue
+}
+
+#hoofd, #hoofd1{
+  color: red;
+  font-size: 25px;
+}
+
+body,header,footer{
+  padding: 5px;
+}

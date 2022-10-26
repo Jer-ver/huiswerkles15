@@ -1,0 +1,39 @@
+body{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightblue;
+  text-align: center;
+}
+
+ul a:hover{
+  font-family: monospace;
+  color:red;
+  font-size: 25px;
+}
+
+li{
+  display: inline-block;
+  height: 30px;
+  width: 300px;
+  padding: 12px;
+  text-align: center;
+  border-style: double;
+  background-color: lightblue;
+}
+
+header{
+  color: darkblue;
+  font-family: serif;
+}
+
+img{
+  max-width: 35%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header, footer{
+  padding: 5px
